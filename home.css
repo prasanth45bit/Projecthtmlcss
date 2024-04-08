@@ -68,8 +68,9 @@
     }
     img
     {
-        width: 6%;
-        
+        width: 4%;
+        height: 4%;
+        margin-top: 20px;
     }
 
     .con
